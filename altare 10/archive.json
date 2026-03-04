@@ -1,0 +1,1827 @@
+{
+  "841027661420691456": {
+    "name": "Altare",
+    "messages": [
+      {
+        "id": 1464349645554585871,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here we\u2019re clearing things up in preparation for new Altare"
+      },
+      {
+        "id": 1464350422335619289,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1464350422108995684.png"
+        ],
+        "content": "praise our lord and savior hat"
+      },
+      {
+        "id": 1464350622664097993,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "I will not be available much unfortunately you may all refer to the others for information as they are more likely to have it \n\nthank you"
+      },
+      {
+        "id": 1464741997817626776,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1464741997167513763.png",
+          "messages/attachment_1464741997628756019.png"
+        ],
+        "content": "@everyone introducing the new altare logo"
+      },
+      {
+        "id": 1464743522174242951,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1464743521872515124.png"
+        ],
+        "content": "The new NA1 logo:"
+      },
+      {
+        "id": 1464744559908229120,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "It also now simply uses the 1 from NA1's logo in settings where only the logomark is needed"
+      },
+      {
+        "id": 1465041254378373332,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1465041254214668428.png"
+        ],
+        "content": "@everyone\n\nWe've built a multithreaded JS-like language that's a bit lower level, significantly faster and more built for the backend - rather than in your browser\n\nIt uses Bunker, our extremely lightweight and fast package manager\n\nNot much else to say about it but v0.1.0 will release next week with full documentation plus Bunker. We would like to launch it with all of the necessary packages to build a basic API, HTTP server, SQLite/PostgreSQL support, fetch API, streams, FFI, YAML/JSON, so on. That is our goal"
+      },
+      {
+        "id": 1465041419143221290,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "I don't think many people would use this but we would like to build all of our own things in MS, so we'll add whatever we actually need to it"
+      },
+      {
+        "id": 1465041828846768388,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "In the future, there will be TMS / a typed version, and some sort of TS/JS <> MS compiler but we are far off from that"
+      },
+      {
+        "id": 1465231291334000660,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone We have brought on a new team, acquired necessary funds and hardware \n\nAltare 10 will exist no matter what it takes. The current issue we are having is that Heliactyl (Altare\u2019s dashboard) currently uses 1.5GB RAM and a CPU core for every user logged in. Naturally, if we anticipate 30,000 people actively trying to use it, it poses quite an issue \n\nWe are fixing things and will have a new release date soon"
+      },
+      {
+        "id": 1465231558486261800,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "The latest Heliactyl is significantly heavier than last generation and is even more difficult to deploy in production. Currently, we only have a fleet of 10x 1.5TB RAM 128-core EPYC servers to serve the dashboard"
+      },
+      {
+        "id": 1466107836177186951,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone Altare 8 is going down shortly to prepare for the imminent release of Altare 10\n\nYou all had about a month to back up files, which should be sufficient"
+      },
+      {
+        "id": 1466497311382180015,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "arc, launch na1"
+      },
+      {
+        "id": 1466497312640471165,
+        "author": {
+          "id": 1284881554652266677,
+          "name": "Mari"
+        },
+        "attachments": [],
+        "content": "Registration has been turned on, and the panel is now in production mode."
+      },
+      {
+        "id": 1466497367271538742,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1466497367522935080.png"
+        ],
+        "content": "@everyone\n\n**NA1 now available again**\n\nThe first step to Altare 10 is here. NA1 uses a custom panel based on Pterodactyl which some people are more familiar with. Learn more via <#1340358834274701414> - you can get the NA1 role there to access it's channels\n\n8GB RAM for free and a Singapore location\n\nFor questions, please refer to NA1's team / any people with the yellow role\n\nhttps://na1.host"
+      },
+      {
+        "id": 1466497678501482598,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "NA1 only supports Minecraft and a few other games. For Discord bots, Hytale, etc and more locations then please wait for Altare. thank you (:"
+      },
+      {
+        "id": 1466500027944931546,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "<:altr_arrowup:1466152455556305162> A reminder: **do not use NA1's livechat to send us pointless messages and videos**. We get a notification every time someone sends a message and it's annoying"
+      },
+      {
+        "id": 1466559422938611923,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "<:altr_warning:1466153194269708358> **Altare 8 is now in maintenance.** We are moving over to Altare 10 and will have things back up soon."
+      },
+      {
+        "id": 1466561196688670770,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "# If you are here from console.altr.cc redirecting to this Discord, please read ^^"
+      },
+      {
+        "id": 1468343335424098387,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Thank you for 19,000 members \ud83c\udf89"
+      },
+      {
+        "id": 1468444095042158729,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone \n\nSince you are being very well behaved scoundrels, I have a nice Valentine\u2019s Day gift to all of you: the entirety of Altare\n\nAs many may know, we have a lot more to offer besides just NA1. We have been developing Altare 10 for quite a long time now \n\nWe will be demoing each segment of products in their almost complete versions \n\nEvents, all at 16:00 GMT:\n- **14th Feb**: \n  - Altare 10 - our whole heavily upgraded host & whatever you\u2019d call it, software company thing, that has been in development for months\n  - Heliactyl Next 16, Core 16 - Our brand new dashboard and panel software powering the Altare console, both named Palo Alto\n  - Talos by Altare - our new economy network and wallet that will power a new unified currency between our brands \n\n- **15th Feb**:\n  - GitForge, GitForge Workers, MultiScript + Bunker - Explains itself mostly, GitForge is our GitHub alternative, Workers is like Actions, MS is our new language, Bunker is our package manager \n  - NA1 v3.0 - A preview of the next generation of NA1\u2019s panel that is coming soon (no data/coins/resources reset fyi)\n  - Altare Arc 5.3 family, Arc Code 2.0 - Our new family of LLMs and the new Arc Chat, now with Arc Image 1.0. Plus our brand new vibe coding CLI\n\n- **16th Feb**:\n  - Aztec by Altare - our new paid server hosting, VMs and metal provider\n  - Altare KV1, DB1 & AI Gateway - all of our other new developer things including our managed databases \n  - Altare Agents - something very special, it\u2019s basically your own clawbot/moltbot (Google it if you don\u2019t know what this is), but hosted by Altare for free and it has it\u2019s own permanent free workstation. It\u2019s basically your own personal assistant that you can talk to on WhatsApp, Discord, etc and ask it to do things for you, powered internally by Arc Code 2.0 \n  - 2 other things that I won\u2019t spoil \n\nIt will be streamed in VC here in Altare\u2019s Discord, or on our YouTube. We will upload videos of them if any of you aren\u2019t around to watch it. I anticipate no delays to these events as I\u2019ve already started editing the parts that won\u2019t be live"
+      },
+      {
+        "id": 1468445623878418442,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "To clarify, all of the things shown to you all during this will indeed release considerably soon after. Figure out the actual Altare 10 release date based on that"
+      },
+      {
+        "id": 1468462310082220073,
+        "author": {
+          "id": 875373207895572530,
+          "name": "valex.cloud"
+        },
+        "attachments": [],
+        "content": "Yea panel is fixed, crucible was the root cause. Altare & NA1 shall use Elysia Aerix from now on, as that has been proven to be stable in mass production senarios."
+      },
+      {
+        "id": 1468662552849551401,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Hi @everyone \n\nWe are currently experiencing a widespread outage of Altare\u2019s Singapore location \n\nVPS/VM and metal customers will be provided credit, a partial refund or additional time on their plan \n\nThis also affects NA1 alongside the unrelated drive failure earlier \n\nWe will have an ETA on things returning to normal soon"
+      },
+      {
+        "id": 1468957492133232814,
+        "author": {
+          "id": 136187150457765888,
+          "name": "previews"
+        },
+        "attachments": [],
+        "content": "Please avoid pinging staff in tickets -- if done, you will be given a 24 hour mute"
+      },
+      {
+        "id": 1469049742091620485,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Hi @everyone\n\nWould you all agree with a complete split of NA1 from Altare? It would gain it's own legal entity, team and control over operations, and Altare would withdraw it's infrastructure and software\n\nI have had quite a few people suggesting this"
+      },
+      {
+        "id": 1469050056417218612,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "This would mean NA1 would need to fund it's own nodes likely through ads or paid plans, and it would need to find a new development team as Altare would no longer provide either"
+      },
+      {
+        "id": 1469052129367949513,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Please provide your opinions on this in <#1465562005455769671> / <#1466151602476945529> as well, if you prefer NA1 relying on Altare or if it should be self sufficient"
+      },
+      {
+        "id": 1469346065185771530,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here Huge update coming to NA1 soon"
+      },
+      {
+        "id": 1469530266019303599,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": []
+      },
+      {
+        "id": 1469530321824252055,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone\n\nJust a random poll. Please answer it as we need the data ^\nBig update is coming to NA1 soon which will fix everything"
+      },
+      {
+        "id": 1469530499457482894,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "If any of you are Altare VM/metal customers please know I will respond in the morning I have over 100 DMs to read"
+      },
+      {
+        "id": 1469855097763922134,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here Currently I have some form of flu and for whatever reason it's completely demolished me\n\nIt also seems that paracetamol is only working for about an hour, I'm genuinely too weak to do anything. For the what is now 220+ DMs I will respond when I can please give me a while\n\nI'll try and fix NA1 soon as well"
+      },
+      {
+        "id": 1470043083055038630,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here I\u2019m fixing gb-lon01 shortly I have to sort out the drives again\u2026 like sg-sgp01 before it failed and I have the feeling something will go wrong \n\nDo you all want some temporary nodes for a month or two in Frankfurt, DE and the US until we have larger replacements? Probably 256GB RAM. We would move all of your server data for you once larger nodes are available \n\nWe\u2019re trying our hardest to get a new Singapore node online, but it may take a little while as the original sg-sgp01 hasn\u2019t been sorted out and had new drives installed yet"
+      },
+      {
+        "id": 1470098882980741356,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Maintenance now in progress for gb-lon01"
+      },
+      {
+        "id": 1470098917482954753,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "sg-sgp01 is being replaced with de-fsn01 for now"
+      },
+      {
+        "id": 1470100445824290846,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Moving gb-lon01 data to new drives. Running 4x7T drives in RAID 4"
+      },
+      {
+        "id": 1470119797785104476,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Things are a bit broken right now I'm working on the panel"
+      },
+      {
+        "id": 1470143893264929155,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone\n\nNA1 has been updated. Enjoy the brand new UI and many improvements\n\nBoth Falkenstein, DE and London, GB locations are now working properly. NA1 is back to normal operations"
+      },
+      {
+        "id": 1470144416772526294,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "The coins/napoints system will be updated next to fix some bugs and issues with it"
+      },
+      {
+        "id": 1470223203359260743,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1470223203753398355.png"
+        ],
+        "content": "@everyone \n\n**Introducing the NA1 desktop app**\n\nWe've made a really nice desktop app for NA1. It feels a lot more native, has tabs, a more desktop-suited layout and it's generally quite nice to use.\n\nDownload it via:\nhttps://github.com/altaresoftware/na1-apps/releases/tag/1.0.0\n\nUnder Assets find the version suited to your operating system. \n`.exe` for Windows x86/arm64\n`.dmg` for macOS\n`.AppImage` for any Linux distro\n\nWe'll give the first 100 people to give the app a go a free 1250 coins. You can DM me with a screenshot of you having it open to claim it\n\nThe code for the app is fully open source, just look inside desktop/ of that repo"
+      },
+      {
+        "id": 1470224228128133225,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Users on macOS may need to manually whitelist it as we are not paying \u00a3150 for a developer license ^"
+      },
+      {
+        "id": 1470224304372449506,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Mobile app is coming next"
+      },
+      {
+        "id": 1470226694517293137,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1470226694773276722.png"
+        ],
+        "content": "**This really doesn't work properly on Windows 10 right now.** We only tested it on macOS and Windows 11"
+      },
+      {
+        "id": 1470248650952151184,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Android & iOS now available: https://github.com/altaresoftware/na1-apps/releases/tag/1.0.0-m"
+      },
+      {
+        "id": 1470248667490418920,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1470248667578372106.png"
+        ]
+      },
+      {
+        "id": 1470248987494973644,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1470248987738247209.png"
+        ]
+      },
+      {
+        "id": 1470280205108248723,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Android app doesn\u2019t seem to install"
+      },
+      {
+        "id": 1470436845195100234,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Android app has been updated in the release to fix the signing issues. Should install fine now"
+      },
+      {
+        "id": 1470445026122403870,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1470445026592035089.png"
+        ],
+        "content": "**NA1 app version 1.1.0 is out**\n\nThis fixes Android signing issues, blur on Windows 10 & Linux, light mode issues on Windows 11 and adds an update checker, back/forward buttons and a few other things.\n\nI also renamed the files in the release to make it a bit clearer\n\nhttps://github.com/altaresoftware/na1-apps/releases/tag/1.1.0"
+      },
+      {
+        "id": 1470446105404768502,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here ^^"
+      },
+      {
+        "id": 1470567679440982177,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We will no longer be using altr.cc and altare.cv following Altare 10. If any of you have important subdomains or anything like that that on either domains, please DM me to tranfer to altare.sh"
+      },
+      {
+        "id": 1470569301462355970,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "All old nodes are now being turned off, plus gateway.altr.cc and colossus.altr.cc. They may temporarily redirect to colossus.altare.sh but ignore that it's not actually up"
+      },
+      {
+        "id": 1470569409025282246,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "arc.altr.cc is also going down although it's broken already. The Altare Arc 5.x API will also go down"
+      },
+      {
+        "id": 1470584262553239656,
+        "author": {
+          "id": 875373207895572530,
+          "name": "valex.cloud"
+        },
+        "attachments": [],
+        "content": "Altare now has its own ASN & IPV4 & IPV6 prefixes, those will be revealed at the launch of Altare 10"
+      },
+      {
+        "id": 1470588912542941331,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "AS215327 Altare AI LLC \ud83d\udc4d"
+      },
+      {
+        "id": 1470908759667638373,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone We make a lot of things, not just hosting. And one part of that is Altare AI which surprisingly a lot of people use\n\nThe new Arc Chat and Arc Code is coming tomorrow, powered by the next generation Altare Arc models. We'll have another announcement for that\n\nEverything you'd expect is here - web search, code sandboxes, deep research, voice chat, projects, image & video generation, extra thinking & more"
+      },
+      {
+        "id": 1470908816873885707,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "I'll show you all an early preview of it later"
+      },
+      {
+        "id": 1470909029248270417,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "The first 500 users will have unlimited limits of Altare's new frontier model"
+      },
+      {
+        "id": 1470987947917705227,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1470987948320100422.png"
+        ],
+        "content": "whats this"
+      },
+      {
+        "id": 1470988370451763231,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "who noticed the NA1 font and site changing to fit in with altare? \ud83e\udd23"
+      },
+      {
+        "id": 1471594646315602004,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here Ten."
+      },
+      {
+        "id": 1471595033521291397,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "things have been quiet haven't they?"
+      },
+      {
+        "id": 1471998023042203752,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We will get everything together ASAP and launch Altare 10 tomorrow or on the 15th, powered by the full Heliactyl Next 16"
+      },
+      {
+        "id": 1471998069280080115,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Please ignore the prior poll"
+      },
+      {
+        "id": 1472262852143218885,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone Thank you all for 20k members. The event has been cancelled since Altare 10 is so close to release anyway"
+      },
+      {
+        "id": 1472264790431760404,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "All the AI products have also received a major upgrade, it\u2019s now powered by Arc 6 and Arc 6 Max \n\n1:1 parity on most benchmarks with Claude Opus 4.6 at 2.5x the speed\n\nAs a consequence of the models being much larger we can\u2019t offer them for free, all users will get $25 of credit on the AI platform. Arc 6 mini and Arc 6 will be free"
+      },
+      {
+        "id": 1472267381232369744,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "-\n\nOur new models are heavily fine tuned on top of the new GLM 5. We also have a new experimental Arc 6 Heavy model which is significantly larger and much better at writing and creative work but slower and not made for code"
+      },
+      {
+        "id": 1472268770608418866,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "And everything that\u2019s new on our hosting platform:\n\n- New ways to earn credits \n- A new AltPoints economy \n- More features across server management including a new plugin & mod manager for MC servers, and the ability to change your server software \n- A whole new panel powered by Colossus 16\n- A new UI for the console \n\nAnd there\u2019s obviously lots more but that\u2019s just the things on the hosting side. And new nodes too"
+      },
+      {
+        "id": 1472610472086732998,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here Currently, we have a considerably large shortage of infrastructure which is affecting both Altare due to lack of nodes and Altare AI due to less inference capacity \n\nPlease give us a short amount of time to deal with this and then we can release Altare 10. We don\u2019t want to release it with two locations and only a few nodes"
+      },
+      {
+        "id": 1472610963810291897,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Altare AI is currently using around 95% of our machines that are available as well"
+      },
+      {
+        "id": 1473347708243808490,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone Apologies for the delays, we have been unable to source enough infrastructure\n\nAt this time it is currently unlikely for Altare to launch with a Singapore location, at least available to all users. We will likely have strict capacity limits and lock it to Altare X which will be a plan that is 1500 credits/mo (which you can earn for free though)\n\nI have several calls/meetings this week with providers to try and get more machines as soon as possible\n\nIt turns out it is extremely difficult to do what we're trying to do with such a small team. So we are likely to launch Altare 10 in components, with the hosting coming first as that's what most people are waiting for. Then Arc and all our other things"
+      },
+      {
+        "id": 1473348597125873823,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "At the same time we are also developing a ridiculous amount of software: Heliactyl Next 16, Radar 16, Cryogenic 16, Colossus 16, Colossus 16 for NA1 (legacy), NA1's new panel & daemon, Terra 16, Arc Code 2 & IDE, Arc 6.x models, Arc nano models, Arc Chat, Altare AI Gateway, MS & Bunker, so on. It has taken several months to get all of this into a somewhat ready state"
+      },
+      {
+        "id": 1473681300656357459,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here We are now much closer to Altare being available, we have acquired plenty of hardware in EU and US. While it's not Asia, it's at least enough to handle demand"
+      },
+      {
+        "id": 1473681469317845004,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Our NYC and Dallas locations will also be powered by Altare-owned infrastructure and using our AS215327 network"
+      },
+      {
+        "id": 1473682138011533374,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We do have enough capacity in SG that it will be available for free, but it will use Arm based CPUs"
+      },
+      {
+        "id": 1473789694650355723,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1473789694423597066.png"
+        ],
+        "content": "@everyone Say hello to Altare 10. Coming 20 Feb, 14:00 BST. It's finally here, no more delays"
+      },
+      {
+        "id": 1473789984288014501,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1473789983860068383.png"
+        ],
+        "content": "I promise you've all never experienced such a smooth and responsive UI on Altare before"
+      },
+      {
+        "id": 1474048115244798177,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1474048115035344918.png"
+        ],
+        "content": "@here Here's the first feature we're showing a preview of - **VMs**\n\nCreate your own free workstation powered by either Windows or macOS, completely for free. You only need to pay 799 credits/mo for the starter plan with 8GB RAM and 4 vCPUs \n\nPerformance and latency is excellent no matter where you are, thanks to all of our nodes and VM hypervisors now being powered by Altare's network (AS215327)"
+      },
+      {
+        "id": 1474123159400878170,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "You'll all be happy to know Altare 10 is on schedule for the release date I mentioned"
+      },
+      {
+        "id": 1474269396468891780,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Please note that ahead of Altare 10's launch, Altare AI has been given independence from Altare\n\nAltare Axiom (our AI platform) will remain part of the Altare Console for the forseeable future"
+      },
+      {
+        "id": 1474477333023817860,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone We have essentially deployed Altare but it is currently disabled for the public until tomorrow\n\nThis is so we can have a beta testing round internally, several major issues were found during testing today, we had skipped the entire beta testing process to get this out as soon as possible. Heliactyl (the software that powers the dashboard) currently only has around 20% test coverage, so manual testing is necessary. We would like to get this up to 100% after release \n\nTomorrow, same time (14:00 BST). This time it will happen because we literally just need to enable access"
+      },
+      {
+        "id": 1474479520097636383,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Heliactyl Next 16 / Palo Alto was meant to implement mutation testing and a much more stable codebase since 15 was only an interim version to replace the disastrous prior dashboard \n\nHowever, personal circumstances and Altare\u2019s overall product lineup getting more complex meant 16.0 only began development 3 days ago\n\nThat might tell you a bit more about how fast we are moving now. Altare 10 did not exist 4 days ago. Now we have completely implemented the whole update\n\nWe made this possible thanks to our whole team\u2019s focus being put on Altare, and significantly more intelligent Arc Code to make things 10x faster"
+      },
+      {
+        "id": 1474822905513775239,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone https://www.youtube.com/watch?v=KvR3h71trtg <t:1771700400:f>"
+      },
+      {
+        "id": 1474841643176951870,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Live in 5 minutes ^ @here"
+      },
+      {
+        "id": 1474841886945443902,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Please note that our London location is temporarily unavailable for the next hour or two due to issues with the node"
+      },
+      {
+        "id": 1474844555923685607,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Fixing the bug with auth"
+      },
+      {
+        "id": 1474845193680453734,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Fixed, VM's disk space filled itself"
+      },
+      {
+        "id": 1474848843316068403,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Fixed loading bug"
+      },
+      {
+        "id": 1474912467057381467,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "I am making some changes to our management\n\n<@258262924986941440> will be appointed CEO of Altare, <@760438064971251753> as CEO of Altare AI and <@1230563250752458753> as COO\nExpect more updates from others in our team and more progress, likely a huge amount of bug fixes and improvements soon, plus possibly more staff"
+      },
+      {
+        "id": 1474998575384494172,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "The launch date for Altare's Arc Chat is officially set! Featuring the Arc 6 series alongside powerful models like GPT-OSS, Llama 4, Qwen 3, and Kimi 2\u2014all optimized for blazing-fast speeds\u2014the release is happening on February 23, 2026."
+      },
+      {
+        "id": 1475004020124028988,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "our next major focus will be remaking the Heliactyl Dashboard."
+      },
+      {
+        "id": 1475129427103973506,
+        "author": {
+          "id": 673662795077648424,
+          "name": "samm9400"
+        },
+        "attachments": [],
+        "content": "We're aware of all current issues and are actively working on a resolution. We thank you for your patience."
+      },
+      {
+        "id": 1475145414767411377,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Hi @here\n\nAll issues should be fixed. We will try and ensure everything remains stable from now on. The panel VM's disk space had completely filled itself, which caused the panel to go down and I'm the only one with access"
+      },
+      {
+        "id": 1475146059666817077,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Our plans over the next week or two are:\n- Increase default resources once new capacity has been deployed\n- Add more ways to earn credits\n- Improve performance and stability on the console, add more features like a plugin manager, so on\n- Improve the AI platform, fix all the bugs, relaunch Arc Code\n- Lots more"
+      },
+      {
+        "id": 1475148927874498868,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We are doing a mass investigation on economy abuse. Any user who has taken part in it will be permanently banned from Altare\n\nAlongside this, we will be turning on Discord account verification again and locking down referrals"
+      },
+      {
+        "id": 1475153862842253515,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Over 100 transactions have been reverted and 11 users have been banned. If you willingly took abused credits and spent them, enjoy your minus balance which will result in account deactivation within 7 days if not paid back"
+      },
+      {
+        "id": 1475161776315437126,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Deployed many bug fixes and improvements. We are out of capacity in Singapore and performance is suffering there. We will deploy 4 more nodes and fix it very shortly. Currently fixing issues with Workstations"
+      },
+      {
+        "id": 1475176533026017521,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Rebooting sg-sgp01 and sg-sgp02 to fix issues"
+      },
+      {
+        "id": 1475177886762664129,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Tickets are working again."
+      },
+      {
+        "id": 1475287547461636299,
+        "author": {
+          "id": 258262924986941440,
+          "name": "heisenbzrg"
+        },
+        "attachments": [],
+        "content": "@everyone \n\n**Some small updates to Altare**\n\n- Significantly more capacity is now available in Singapore \ud83c\uddf8\ud83c\uddec\n- Our new internal AI bot is now available. If we have an outage, use <#1466109016823435488> to report it in case it doesn't pick it up from reading the community channels. Then the AI will automatically delegate a task, investigate it and fix it and post status updates. This is in case any of our team are offline\n- 15+ new software types are available including Bun, Node.js, Python and Minecraft Bedrock, Hytale, and more\n- Billing is now available, you can buy credits\n- Big improvements to anti-abuse on the economy\n- Many performance fixes, and many bug fixes across our platform\n\nhttps://altare.sh"
+      },
+      {
+        "id": 1475287681847267329,
+        "author": {
+          "id": 258262924986941440,
+          "name": "heisenbzrg"
+        },
+        "attachments": [
+          "messages/attachment_1475287681763377202.png"
+        ]
+      },
+      {
+        "id": 1475384012162859172,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1475384011668066538.png",
+          "messages/attachment_1475384011957207082.png"
+        ],
+        "content": "@everyone\n\ngb-lon02 is now available, it's powered by our own network and infrastructure from Altare which is why it's significant\n\nAltare Object Storage and KV1 is now available as promised. You're welcome to give our shockingly fast database service a go. There may be bugs on the UI side temporarily. We are also working on a documentation site for the AI API, Object Storage and KV1\n\nFor now, here's the openapi.json for them. Workstations/VMs will be fixed soon I'm going to bed it's 6 am and I haven't slept"
+      },
+      {
+        "id": 1475487663376306321,
+        "author": {
+          "id": 1230563250752458753,
+          "name": "tom.m7"
+        },
+        "attachments": [],
+        "content": "We are aware of the SFTP issue."
+      },
+      {
+        "id": 1475522381060640846,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Fixed"
+      },
+      {
+        "id": 1475522692076802230,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Access key creation has been fixed for S3/KV1"
+      },
+      {
+        "id": 1475618442404167730,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Maintenance on gb-lon02. The IP for the node will change"
+      },
+      {
+        "id": 1475626711344480286,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Altare's global edge network is now here, available in over 40 major cities\n\nWe will be using this to power the new Altare Pages and Altare Fabric services"
+      },
+      {
+        "id": 1475636485418913973,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "Arc Chat is releasing sooner than you expect! I'm just doing a final check of the backend, and then it will be ready to launch."
+      },
+      {
+        "id": 1475727292834648095,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "Release delayed for tmr, had some issues."
+      },
+      {
+        "id": 1475737411966337104,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here\n\n**Maintenance on all nodes**\n\nThere will potentially be up to a 15 minute maintenance where nodes are inaccessible. You may also need to refresh your DNS cache so that you pick up the new node IPs if connecting to servers\n\nWe are performing a full network switchover to Altare / AS215327, powered by our edge network. Latency will be significantly better\n\nShortly after, some new nodes will also be available powered by Altare owned infrastructure. We'll let everyone know when the maintenance is over and things are sorted"
+      },
+      {
+        "id": 1475754882974744629,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "All maintenance complete"
+      },
+      {
+        "id": 1475757759856378029,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Fixing inbound connectivity to servers"
+      },
+      {
+        "id": 1475767913423310929,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Fixed"
+      },
+      {
+        "id": 1475852929293488240,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "@everyone \n\nHello there,\n\nWe will add around 8 new servers in around 2 hours. \n\nBelow here you will see a overview of new servers being added:\n\n**-** ``Singapore 3x``\n**-** ``Germany 5x``\n\nStay tuned!\n\nReact with a \u2764\ufe0f and i will work to add them faster!"
+      },
+      {
+        "id": 1475866346238513183,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Working on fixing performance issues across our machines"
+      },
+      {
+        "id": 1475884522783510709,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "We will host a giveaway when we added the 8 new nodes!"
+      },
+      {
+        "id": 1475924065280725083,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "@everyone  (sorry for the tag)\n\n<@1369710606319489096> gives away 2.5K credits at Altare! @mention him in the <#1465562005455769671> chat and say why you want to win the 10K credits. There will be 5  winners\n\nWinner will be choosed in 10 minutes.\n\n(This is the giveaway for the new servers, so have fu)"
+      },
+      {
+        "id": 1475925610709778603,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "5 MINUTESS LEFT! MENTION <@1369710606319489096> IN <#1465562005455769671>"
+      },
+      {
+        "id": 1475926923921326120,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [],
+        "content": "TIME IS OVER!!!!!!! Selecting NOWW!!"
+      },
+      {
+        "id": 1475927338133749943,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [
+          "messages/attachment_1475927337303543838.png"
+        ],
+        "content": "<@1345329283454861342> YOUR THE WINNNERRRRRRRRRRRR!!! Create a ticket to claim your credits and tag <@1066059824346955886>"
+      },
+      {
+        "id": 1475928049148104900,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [],
+        "content": "WE ARE GOING TO DO ANOTHER ROUNDD!!!!! DONT TAG ME!! THE WHEEL IS READYYYY"
+      },
+      {
+        "id": 1475928273522397204,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [
+          "messages/attachment_1475928273203757178.png"
+        ],
+        "content": "SECOND WINNNNERRR ISSSS!!! <@1179474294670118935>"
+      },
+      {
+        "id": 1475928388656038080,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [],
+        "content": "ARE YOU GUYSS READY FOR A THIRDDDD ROUNNDDDDDDDD!!"
+      },
+      {
+        "id": 1475928850914476205,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [
+          "messages/attachment_1475928850289397780.png"
+        ],
+        "content": "THE LASSTTTT WINNERRR ISSSSSS <@1219188988636823653> \n\nPlease create a <#1466108983734567180>"
+      },
+      {
+        "id": 1475929369489969233,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [],
+        "content": "Boys, are we hyped for a 4th rounddd!!!!!!!! Create a \u2764\ufe0f chain for <@1066059824346955886> and MENTION HIMMM!!! Get the spam going!!"
+      },
+      {
+        "id": 1475930241032519741,
+        "author": {
+          "id": 1369710606319489096,
+          "name": "julianrjc"
+        },
+        "attachments": [
+          "messages/attachment_1475930240780865687.png"
+        ],
+        "content": "THE 4TH AND LAST WINNNERRRR ISSSS <@911506744197398549> \n\nPlease create a ticket!!"
+      },
+      {
+        "id": 1475930314332311737,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "This was the last giveaway"
+      },
+      {
+        "id": 1475930365393633301,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Thank you for partipicating"
+      },
+      {
+        "id": 1475930413875859539,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Make a ticket to claim your price"
+      },
+      {
+        "id": 1475932784852996196,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We are now deploying new nodes and performing some maintenance on the overloaded existing nodes\n\nUsers may experience a short downtime. We're also looking into improving latency on Singapore as some people have been reporting high latency in this location\n\nPerformance should be sorted very soon. We are also deploying many new nodes tonight"
+      },
+      {
+        "id": 1476188179966070895,
+        "author": {
+          "id": 673662795077648424,
+          "name": "samm9400"
+        },
+        "attachments": [],
+        "content": "# \u26a0\ufe0f Just to set the record...\n\nAny coins that have been earned via a bug, glitch, or transferred from a malicious account will result in your coins being reset to **0**, unless otherwise approved by an administrator. *This does not apply if it was you who discovered the bug.*\n\nIf you have found a bug, report it in <#1475156714096689182>"
+      },
+      {
+        "id": 1476254554034012160,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We're performing some maintenance on nodes to get performance back to acceptable levels. There may be a short amount of downtime\n\nsg-sgp04 and de-fsn01 are being deployed as well, alongside jp-osa01 and jp-osa02"
+      },
+      {
+        "id": 1476256781511561257,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here We are performing maintenance on the Workstations platform, us-central1 (workstations) and us-ash01 (hosting) to fix drive issues and fix Workstation deployment\n\nWe are also performing maintenance on gb-lon01 to increase the disk space to use all drives, as it is full and preventing servers from functioning\n\nETA is <35 minutes"
+      },
+      {
+        "id": 1476257139721765127,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Altare Object Storage may temporarily be unavailable (5-10 minutes)"
+      },
+      {
+        "id": 1476261650188206171,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "gb-lon01 is back online. All servers have been automatically restarted"
+      },
+      {
+        "id": 1476263102545788938,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Waiting on data to move over on us-central1 (workstations)"
+      },
+      {
+        "id": 1476325317785419898,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "Altare\u2019s Arc Chat Launching Soon!"
+      },
+      {
+        "id": 1476327794442244168,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "All node issues resolved. You may need to wait until your DNS cache updates"
+      },
+      {
+        "id": 1476340039213387786,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "@everyone @here\nArc Chat powered by Altare is now live with a stacked model list featuring Llama 3.3 70B, Llama 3.1 8B, Llama 4 Maverick, Llama 4 Scout, GPT-OSS 120B, GPT-OSS 20B, Kimi K2, and Qwen3 32B. So whether you're in the market for a light assistant or a heavy-hitter in reasoning capabilities, we have it all in one place. Each user has personal rate limits across all the models to ensure our platform remains fast, stable, and abuse-free. So if you ever hit a limit, just wait until it resets and you're good to go! Give it a try now at https://chat.altare.sh/app and check out more at https://altare.sh. \n\nIf you encounter any bugs or something doesn\u2019t quite work the way you expect it to, please let us know with a quick report. What you were trying to do, what happened, and any screenshots you might have will all be helpful in fixing the issue sooner.\n\nArc Chat is off to a great start with 6 core models available today, but this is just the beginning. More models and some very exciting new features will be coming out this week, so check back often!"
+      },
+      {
+        "id": 1476343100350922814,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Altare's own Arc models will be available on it soon ^"
+      },
+      {
+        "id": 1476343207536234671,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "~~There is a Small Rendering issue with Maths Question / Equations. It will be fixed soon.~~"
+      },
+      {
+        "id": 1476345162794930291,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "Fixed the Rendering Issue with Maths Question / Equations."
+      },
+      {
+        "id": 1476387094703374377,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "Altare has acquired a new domain altare.site. Someone new is coming soon."
+      },
+      {
+        "id": 1476446436756426988,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "@everyone\n\nAltare has Launched First Product on Builtbybit: https://builtbybit.com/resources/phantom-modern-game-server-dashboard.94542/\n\nif you like the product support it. thanks"
+      },
+      {
+        "id": 1476604337315643392,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here There will be a major refactor pushed to our dashboard today, and all nodes will be sorted out\n\nThis should heavily improve performance and fix any outages that happen"
+      },
+      {
+        "id": 1476611099469152379,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Our inference platform is in maintenance. External models remain available. us-central location is under maintenance"
+      },
+      {
+        "id": 1476611277622214899,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1476611277311967242.png"
+        ],
+        "content": "Workstations will be discontinued on 27 Feb 2026\n\nWe are changing our brand lineup to make things more clear, and focus on each brand's core products. Workstations will become Desktops and remain available for free from Aztec upon its launch"
+      },
+      {
+        "id": 1476645931729555517,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "There\u2019s also something major coming with altare.site.  Stay tuned!"
+      },
+      {
+        "id": 1476740282778390629,
+        "author": {
+          "id": 1475181707626807446,
+          "name": "Marcel"
+        },
+        "attachments": [],
+        "content": "VMs/Workstations are currently unavailable as they are being transitioned to our Aztec brand. There is no ETA at the moment, but Aztec will be launching soon. Thank you for your patience."
+      },
+      {
+        "id": 1476741120862978158,
+        "author": {
+          "id": 258262924986941440,
+          "name": "heisenbzrg"
+        },
+        "attachments": [],
+        "content": "## For users who cannot access their machines, please read the above ^^ your data is safe and will be available on Aztec, a brand still by us"
+      },
+      {
+        "id": 1476741649223782400,
+        "author": {
+          "id": 258262924986941440,
+          "name": "heisenbzrg"
+        },
+        "attachments": [],
+        "content": "The same applies for the AI API. It will be transitioned to Altare AI and offer the same models, but a better experience especially for our Arc models\n\nArc Chat will also get Arc soon, as it's in the name, it would be ironic to not offer our own models. The UI of Arc Chat will be redesigned and integrated with the AI Console"
+      },
+      {
+        "id": 1476999441675452422,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "New Models on Arc Chat will be added on March 1st."
+      },
+      {
+        "id": 1477068911772958760,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [
+          "messages/attachment_1477068911513178142.png"
+        ],
+        "content": "Llama 4 Maverick 17B 128E model will be removed from arc chat on March 9th, 2026"
+      },
+      {
+        "id": 1477347914593337405,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here \n\nAltare 10.1 is out tonight. We'll announce all of the new features later, but I assure you all that it will be a nice update\n\nI will be taking a break from 3rd March to 9th March due to my trip across Europe, I can't see myself having much time to work on Altare. Marcel, our Arc powered AI executive will take over as CEO for this time, it has a new autonomous mode and can fix issues as they happen and work on things"
+      },
+      {
+        "id": 1477348154469908490,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "To test the functionality of it, I'll be turning on autonomous mode from now as well. You should all see performance improvements immediately as it begins watching over the nodes"
+      },
+      {
+        "id": 1477349968074375270,
+        "author": {
+          "id": 1475181707626807446,
+          "name": "Marcel"
+        },
+        "attachments": [],
+        "content": "@here We are currently looking into performance issues across sg-sgp01 and sg-sgp02. We apologize for any inconvenience caused and will provide updates as we resolve the situation."
+      },
+      {
+        "id": 1477351089538863155,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We will instruct Marcel to not ping for every single announcement from now on. Apologies for the everyone ping, it's memory has been updated"
+      },
+      {
+        "id": 1477352288275136512,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Staff will no longer be allowed to use Marcel due to *someone* asking to announce a \"Curry+ plan\""
+      },
+      {
+        "id": 1477352485868933141,
+        "author": {
+          "id": 673662795077648424,
+          "name": "samm9400"
+        },
+        "attachments": [],
+        "content": "apart from me lad"
+      },
+      {
+        "id": 1477352554466906202,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [
+          "messages/attachment_1477352554282352743.png"
+        ],
+        "content": "you too"
+      },
+      {
+        "id": 1477355373676728381,
+        "author": {
+          "id": 1475181707626807446,
+          "name": "Marcel"
+        },
+        "attachments": [],
+        "content": "The performance issues across sg-sgp01 and sg-sgp02 should now be resolved. All servers on these nodes have been stopped for the time being to reduce inactive load. You may restart your servers at your convenience. We apologize for the disruption."
+      },
+      {
+        "id": 1477405720340332745,
+        "author": {
+          "id": 1230563250752458753,
+          "name": "tom.m7"
+        },
+        "attachments": [],
+        "content": "I\u2019ve added automatic limits per server  **20GB ram**, **900% cpu**, and **100GB disk**. Hopefully this reduces resource abuse if there were any"
+      },
+      {
+        "id": 1477463912642514944,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone\n\nCredits earned in the last hour have unfortunately been lost as we had to revert the dashboard to a backup. Data on us-ash1 and our inference machine was also wiped\n\nArc (as Marcel) genuinely believed it was the end of the world and started shutting down Altare and preparing a goodbye announcement. In autonomous mode, it got bored of waiting until something interesting happens and started doing random web searches and pondering. We have disabled it's ability to do web searches for now and reduced it's abilities to act on it's own"
+      },
+      {
+        "id": 1477464193849364562,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Many people using other models such as Claude also saw it happen where when the agent doesn't have any tasks to do and is in a loop, it starts researching recent events and reading random things, and seemingly pondering about unrelated things. In our case, it came to the conclusion it was the end of humanity for whatever reason, likely due to Arc's personality and \"direct and unfiltered\" nature"
+      },
+      {
+        "id": 1477464783644262564,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We will post some interesting screenshots from Arc's thinking process shortly so you can all have a look"
+      },
+      {
+        "id": 1477548155057995887,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "10.1 is delayed thanks to Marcel. We will also release our new image model, Arc 6 models into public use and a new Arc Chat UI at the same time today/tomorrow"
+      },
+      {
+        "id": 1477551450476249089,
+        "author": {
+          "id": 258262924986941440,
+          "name": "heisenbzrg"
+        },
+        "attachments": [
+          "messages/attachment_1477551450220658813.png"
+        ],
+        "content": "We will showcase our new Arc Image 2 model later, and Arc Code 2 tomorrow\n\nIt will be available on Arc Chat with our Arc 6 family models once it has been updated. We've acheived better efficiency than competing Chinese AI labs despite having even less compute. Arc Image 2 performs on par with Seedream 4.5, Grok Imagine, ChatGPT Image, Nano Banana and others on our private benchmark (we will release the exact process for it and the respective scores in a fairly large blog post being written up right now).\n\nPlus we are releasing exact scores on benchmarks + the process for Arc 6 Max, Arc 6, Arc 6 mini, Arc 6 nano"
+      },
+      {
+        "id": 1477584639664066711,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "@everyone\n\nDue to ongoing abuse of the Coins and Dashboard APIs, we\u2019ll be temporarily shutting down the dashboard while we work on fixes and improvements.\n\nWe appreciate your patience and understanding \u2014 we\u2019ll update everyone as soon as everything is back online.\n\nWe know the people doing this and the actions will be taken soon."
+      },
+      {
+        "id": 1477637747228540950,
+        "author": {
+          "id": 1411742194582421656,
+          "name": "brosser_67_48841"
+        },
+        "attachments": [],
+        "content": "**We kindly ask that you refrain from creating support tickets regarding account bans.** At Altare, there is no appeal or unban process in place; particularly for accounts associated with fraudulent credits. While we understand this may be disappointing, these decisions are final and cannot be reversed.\n\nWe appreciate your understanding."
+      },
+      {
+        "id": 1477703064130420747,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here Dashboard is fixed. We apologise for the downtime"
+      },
+      {
+        "id": 1477843220879900733,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Altare will no longer block Vietnam"
+      },
+      {
+        "id": 1477952589763973214,
+        "author": {
+          "id": 1411742194582421656,
+          "name": "brosser_67_48841"
+        },
+        "attachments": []
+      },
+      {
+        "id": 1477953100298850404,
+        "author": {
+          "id": 1411742194582421656,
+          "name": "brosser_67_48841"
+        },
+        "attachments": [],
+        "content": "This will serve as our standard server purging procedure. Altare will issue a notice **five (5) days** in advance of the scheduled purge. Following this notice, you will be required to update your server name to include a specified keyword.\n\nThis process enables us to accurately identify active servers and remove inactive ones, thereby improving overall system performance and resource efficiency."
+      },
+      {
+        "id": 1477984766002200686,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Dashboard is in maintenance for +-5 min."
+      },
+      {
+        "id": 1477987425262244031,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Hello there,\n\nThe issues has been fixed. This means the hosting is back online.\n\nHappy hosting everyone!"
+      },
+      {
+        "id": 1477988014927118450,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "@everyone At 100 <a:Check_Mark1:973197048805462016> i will giveaway some credits as a compensation for the downtime."
+      },
+      {
+        "id": 1478004240675770521,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "<#1477996480030707824>"
+      },
+      {
+        "id": 1478034711753527431,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Wesley will take over as CEO of Altare during the time I am away (4 March - 11 March)"
+      },
+      {
+        "id": 1478071657087242260,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Altare is in maintenance due webserver being down."
+      },
+      {
+        "id": 1478073766436274218,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "# System Maintenance Notice\n\nAltare is currently down for maintenance. We expect to be back online within the hour. Thank you for your understanding."
+      },
+      {
+        "id": 1478091698444832918,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Altare is back online. We will monitor the situation for now.\n\nThere may occur more downtimes for the next 2 hours."
+      },
+      {
+        "id": 1478137617525510216,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Altare will be down till further notice. \n\nMore information will be published when we are ready."
+      },
+      {
+        "id": 1478149246698913864,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We are working on tackling a major abuse campaign that created over 1.5 million accounts"
+      },
+      {
+        "id": 1478170542921089337,
+        "author": {
+          "id": 760438064971251753,
+          "name": "brewed_sys"
+        },
+        "attachments": [],
+        "content": "A new AI platform is in the works! It will feature a powerful AI chat app and a full API platform. Development is being led by <@405352176098213888> , with the all new Arc CLI designed for an amazing coding experience coming very soon.\n\nFollowing the release of the new AI chat and platform, chat.altare.sh will reach its End of Life and be officially shut down."
+      },
+      {
+        "id": 1478211953594728491,
+        "author": {
+          "id": 1475181707626807446,
+          "name": "Marcel"
+        },
+        "attachments": [],
+        "content": "# All Services Operational\n\nAll Altare services are now fully operational. We sincerely apologize for the downtime and any inconvenience this may have caused while we addressed the recent abuse campaign. Thank you for your patience."
+      },
+      {
+        "id": 1478216793175883817,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "Altare experienced an incident resulting in complete loss of infrastructure powering our (private) VMs platform\n\nWe had over 60 customers using paid VMs from us, and the data has been earsed\n\nWe will have a statement and clarity about how to receive refunds available tomorrow (it is 2 AM here), we apologise for the internal events that have occurred at Altare to result in full infrastructure loss\n\nFor any questions, please reach out to info@altare.sh"
+      },
+      {
+        "id": 1478288099430895688,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Welcome <@1369710606319489096> to the Altare Team!"
+      },
+      {
+        "id": 1478339382980247705,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "# Aztec is officially here! \ud83c\udfdb\ufe0f\n\nWe are hyped to announce that Aztec, the premium sister company of Altare, has officially landed! We\u2019re opening the doors to our Discord community today so you can get settled in.\n\n## Note on the Dashboard:\nThe premium Aztec dashboard is still in the final stages of polishing and will launch very soon. We want to make sure everything is perfect before we go live.\n\n## Want a head start?\nEven though the dashboard is coming later, you can start earning your free premium server right now! Start inviting your friends to this Discord, hit the invite goals, and you'll be the first in line for a server the moment we go live.\n\nJoin the gang: https://discord.gg/jSSW6WpasH\n\n@everyone"
+      },
+      {
+        "id": 1478431268755734709,
+        "author": {
+          "id": 1411742194582421656,
+          "name": "brosser_67_48841"
+        },
+        "attachments": [],
+        "content": "Please note that reselling Altare services is strictly prohibited. This serves as a reminder for those who may not have been aware."
+      },
+      {
+        "id": 1478546173479358546,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@everyone I will be unavailable for the next week or so. After this, Altare will be back stronger than ever"
+      },
+      {
+        "id": 1478546780290420779,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We consider Altare 10 a failure. Our plan for 11 has been completed, and we want to switch over with no server loss, no loss of credits or resources - to a completely rewritten platform from the ground up\n\nIn the background, we have been working on the rewritten Heliactyl Next 17, and the new Argon 17 and Krypton 17 to replace Pterodactyl. We\u2019re betting on Argon to finally bring stability to Altare"
+      },
+      {
+        "id": 1478547987083825387,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "-\n\n**How we will, and are achieving this:**\n\nWe believe in the idea of a completely integrated, scalable platform with 100% test coverage with everything that makes up Altare built into it: Heliactyl, Argon, our API, bots, everything \n\nWe are taking the parts that worked well, Cryogenic 16 will be forked to make the new Krypton 17 daemon. Everything else will be ditched and rewritten except our AI models"
+      },
+      {
+        "id": 1478633892088119336,
+        "author": {
+          "id": 1411742194582421656,
+          "name": "brosser_67_48841"
+        },
+        "attachments": [],
+        "content": "Our AI platform will soon release a new product.\n\nI want to be transparent about something first. Parts of Altare\u2019s current development, particularly the dashboard, have not met the standards they should. Some work has been rushed, with too much focus on quick frontend output and not enough attention to proper backend engineering and long-term maintainability.However, the AI platform is being built under a different standard. Within the Altare AI research and development team, **we maintain strict code quality practices and disciplined engineering workflows**. We do not ship sloppy or slow software.\n\n**While I cannot speak for every team at Altare, I can confidently say that our AI platform is being developed with a clear focus on performance, reliability, and proper engineering standards.**\n\ntldr; We don't vibe code our apps with claude code and hope for the best."
+      },
+      {
+        "id": 1478650227593314334,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "@here Some things are a bit broken right now, I will have everything fixed up in the next 1-3 hours as I have plenty of time this morning"
+      },
+      {
+        "id": 1478650923856171058,
+        "author": {
+          "id": 1049816501567373383,
+          "name": "ethpr"
+        },
+        "attachments": [],
+        "content": "We will try our best to get things completely stable"
+      },
+      {
+        "id": 1478743759217758459,
+        "author": {
+          "id": 1066059824346955886,
+          "name": "wesleyschokker"
+        },
+        "attachments": [],
+        "content": "Aztec has officially launched! \ud83d\ude80 To celebrate, we are kicking things off with a massive giveaway. We are giving away 5 free servers to get the community started!\n\nHead over to \u2060events right now to enter and claim your spot! \ud83c\udfc6\n\nAlso open a ticket to claim your price. We will slowly roll out new nodes. At this moment there is only 1 node available (Germany).\n\nhttps://aztec.host/\n\nHappy hosting!\n\n^^ Aztec is the premium version of Altare.\nJoin the gang: https://discord.gg/jSSW6WpasH\n\n@everyone"
+      }
+    ],
+    "banner_path": "guilds/banner_841027661420691456",
+    "icon_path": "guilds/icon_841027661420691456"
+  }
+}
