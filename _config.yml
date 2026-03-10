@@ -39,6 +39,9 @@ plugins:
 #   quiet_deps: true
 #   silence_deprecations: [import]
 
+include:
+- 10 3 2026
+- 4 3 2026
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
