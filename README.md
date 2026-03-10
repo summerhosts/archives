@@ -1,5 +1,3 @@
-# Summerhosts archives
-
 Archived channels or servers from a summerhosts' discord server
 
 ## Archives
