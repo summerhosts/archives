@@ -85,7 +85,7 @@ minima:
       icon: github
       url: "https://github.com/summerhosts/archives"
     - title: Summerhosts website
-      icon: fa-house
+      icon: house
       url: "https://summerhosts.netlify.app/"
 #
 #   Hide syndication feed subscription link.
