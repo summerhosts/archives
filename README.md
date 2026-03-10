@@ -6,7 +6,7 @@ Archived channels or servers from a summerhosts' discord server
 
 **Servers**
 
-- [841027661420691456](./4%203%202026/841027661420691456.md)
+- [841027661420691456](https://summerhosts.github.io/archives/4%203%202026/841027661420691456)
 
 archive of Altare 10, old format
 
@@ -14,6 +14,6 @@ archive of Altare 10, old format
 
 **Servers**
 
-- [841027661420691456](./10%203%202026/841027661420691456.md)
+- [841027661420691456](https://summerhosts.github.io/archives/10%203%202026/841027661420691456)
 
 archive of Altare 10-11, new format
