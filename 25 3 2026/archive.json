@@ -1,5 +1,5 @@
 {
-  "archive_started": 1774443997.695508,
+  "archive_started": 1774444851.367546,
   "841027661420691456": {
     "name": "Altare",
     "messages": [
@@ -9495,7 +9495,7 @@
         },
         "position": 0,
         "created_at": 1769630831.244,
-        "name": "Members: 21793",
+        "name": "Members: 21792",
         "permission_overwrites": [
           {
             "entity": 841027661420691456,
