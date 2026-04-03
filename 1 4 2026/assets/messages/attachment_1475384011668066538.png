@@ -1,0 +1,163 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+      "title": "Altare Storage API",
+      "version": "1.0.0",
+      "description": "Object Storage + KV1 API used by the Altare dashboard"
+    },
+    "servers": [
+      { "url": "https://api.altare.sh" }
+    ],
+    "tags": [
+      { "name": "Object Storage" },
+      { "name": "KV1" }
+    ],
+    "components": {
+      "securitySchemes": {
+        "BearerAuth": {
+          "type": "http",
+          "scheme": "bearer"
+        },
+        "Kv1KeyHeader": {
+          "type": "apiKey",
+          "in": "header",
+          "name": "x-altare-access-key"
+        },
+        "Kv1SecretHeader": {
+          "type": "apiKey",
+          "in": "header",
+          "name": "x-altare-secret-key"
+        }
+      }
+    },
+    "paths": {
+      "/api/tenants/{tenantId}/object-storage/overview": {
+        "get": {
+          "tags": ["Object Storage"],
+          "summary": "Object Storage overview",
+          "security": [{ "BearerAuth": [] }],
+          "parameters": [
+            { "name": "tenantId", "in": "path", "required": true, "schema": { "type":
+  "string" } }
+          ],
+          "responses": { "200": { "description": "Overview" } }
+        }
+      },
+      "/api/tenants/{tenantId}/object-storage/buckets": {
+        "get": {
+          "tags": ["Object Storage"],
+          "summary": "List buckets",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Buckets" } }
+        },
+        "post": {
+          "tags": ["Object Storage"],
+          "summary": "Create bucket",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "201": { "description": "Created" } }
+        }
+      },
+      "/api/tenants/{tenantId}/object-storage/keys": {
+        "get": {
+          "tags": ["Object Storage"],
+          "summary": "List object storage API keys",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Keys" } }
+        },
+        "post": {
+          "tags": ["Object Storage"],
+          "summary": "Create object storage API key",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "201": { "description": "Created" } }
+        }
+      },
+      "/api/tenants/{tenantId}/kv1/overview": {
+        "get": {
+          "tags": ["KV1"],
+          "summary": "KV1 overview",
+          "security": [{ "BearerAuth": [] }],
+          "parameters": [
+            { "name": "tenantId", "in": "path", "required": true, "schema": { "type":
+  "string" } }
+          ],
+          "responses": { "200": { "description": "Overview" } }
+        }
+      },
+      "/api/tenants/{tenantId}/kv1/namespaces": {
+        "get": {
+          "tags": ["KV1"],
+          "summary": "List KV1 namespaces",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Namespaces" } }
+        },
+        "post": {
+          "tags": ["KV1"],
+          "summary": "Create KV1 namespace",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "201": { "description": "Created" } }
+        }
+      },
+      "/api/tenants/{tenantId}/kv1/namespaces/{namespaceId}/entries": {
+        "get": {
+          "tags": ["KV1"],
+          "summary": "List entries in a namespace",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Entries" } }
+        },
+        "put": {
+          "tags": ["KV1"],
+          "summary": "Set a KV1 value",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Updated" } }
+        },
+        "delete": {
+          "tags": ["KV1"],
+          "summary": "Delete a KV1 value",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Deleted" } }
+        }
+      },
+      "/api/tenants/{tenantId}/kv1/keys": {
+        "get": {
+          "tags": ["KV1"],
+          "summary": "List KV1 API keys",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "200": { "description": "Keys" } }
+        },
+        "post": {
+          "tags": ["KV1"],
+          "summary": "Create KV1 API key",
+          "security": [{ "BearerAuth": [] }],
+          "responses": { "201": { "description": "Created" } }
+        }
+      },
+      "/storage/v1/kv1/{namespaceSlug}/value": {
+        "get": {
+          "tags": ["KV1"],
+          "summary": "Get value by key (gateway)",
+          "security": [{ "Kv1KeyHeader": [], "Kv1SecretHeader": [] }],
+          "responses": { "200": { "description": "Value" } }
+        },
+        "put": {
+          "tags": ["KV1"],
+          "summary": "Set value by key (gateway)",
+          "security": [{ "Kv1KeyHeader": [], "Kv1SecretHeader": [] }],
+          "responses": { "200": { "description": "Updated" } }
+        },
+        "delete": {
+          "tags": ["KV1"],
+          "summary": "Delete value by key (gateway)",
+          "security": [{ "Kv1KeyHeader": [], "Kv1SecretHeader": [] }],
+          "responses": { "200": { "description": "Deleted" } }
+        }
+      },
+      "/storage/v1/kv1/{namespaceSlug}/list": {
+        "get": {
+          "tags": ["KV1"],
+          "summary": "List keys in a namespace (gateway)",
+          "security": [{ "Kv1KeyHeader": [], "Kv1SecretHeader": [] }],
+          "responses": { "200": { "description": "List" } }
+        }
+      }
+    }
+  }
