@@ -8,7 +8,7 @@ Archived channels or servers from a summerhosts' discord server
 
 - [841027661420691456](https://summerhosts.github.io/archives/4%203%202026/841027661420691456)
 
-archive of Altare 10, old format, new to old messages, archived #news
+archive of Altare 10, old format, old to new messages, archived #news
 
 ### 10 3 2026
 
