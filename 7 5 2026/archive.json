@@ -1,5 +1,5 @@
 {
-  "archive_started": 1778177668.59516,
+  "archive_started": 1778179446.602458,
   "841027661420691456": {
     "name": "Altare",
     "messages": [
@@ -14,7 +14,8 @@
         },
         "attachments": [
           "assets/messages/attachment_1502005293142380634.png"
-        ]
+        ],
+        "content": ""
       },
       {
         "id": 1502004388812558357,
@@ -39,7 +40,8 @@
         },
         "attachments": [
           "assets/messages/attachment_1502004376389029968.png"
-        ]
+        ],
+        "content": ""
       },
       {
         "id": 1501194514541576324,
@@ -184,7 +186,8 @@
         },
         "attachments": [
           "assets/messages/attachment_1498719896752623626.png"
-        ]
+        ],
+        "content": ""
       },
       {
         "id": 1498719559455084655,
@@ -717,7 +720,8 @@
           "created_at": 1481645079.61,
           "bot": false
         },
-        "attachments": []
+        "attachments": [],
+        "content": ""
       },
       {
         "id": 1484564203976003747,
@@ -852,7 +856,8 @@
           "created_at": 1601372962.945,
           "bot": false
         },
-        "attachments": []
+        "attachments": [],
+        "content": ""
       },
       {
         "id": 1479378448966352936,
@@ -887,7 +892,8 @@
           "created_at": 1601372962.945,
           "bot": false
         },
-        "attachments": []
+        "attachments": [],
+        "content": ""
       },
       {
         "id": 1479348090694664317,
@@ -982,7 +988,8 @@
           "created_at": 1756655968.09,
           "bot": false
         },
-        "attachments": []
+        "attachments": [],
+        "content": ""
       },
       {
         "id": 1477843220879900733,
@@ -1854,7 +1861,8 @@
         },
         "attachments": [
           "assets/messages/attachment_1475287681763377202.png"
-        ]
+        ],
+        "content": ""
       },
       {
         "id": 1475287547461636299,
@@ -2525,7 +2533,8 @@
         },
         "attachments": [
           "assets/messages/attachment_1470248987738247209.png"
-        ]
+        ],
+        "content": ""
       },
       {
         "id": 1470248667490418920,
@@ -2538,7 +2547,8 @@
         },
         "attachments": [
           "assets/messages/attachment_1470248667578372106.png"
-        ]
+        ],
+        "content": ""
       },
       {
         "id": 1470248650952151184,
@@ -2733,7 +2743,8 @@
           "created_at": 1670366158.621,
           "bot": false
         },
-        "attachments": []
+        "attachments": [],
+        "content": ""
       },
       {
         "id": 1469346065185771530,
