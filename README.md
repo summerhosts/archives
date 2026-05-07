@@ -32,3 +32,10 @@ archive of mostly Altare 11 announcements, old to new messages, new format, arch
 - [841027661420691456](https://summerhosts.github.io/archives/1%204%202026/841027661420691456)
 
 old to new messages, new format, archived #news
+
+### 7 5 2026
+**Servers**
+
+- [841027661420691456](https://summerhosts.github.io/archives/7%205%202026/841027661420691456)
+
+old to new messages, new format, archived #news
