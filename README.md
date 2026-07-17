@@ -37,3 +37,9 @@ Archived discord servers from a summerhost. The archives contain messages, membe
 **Servers**
 
 - [**841027661420691456**](https://summerhosts.github.io/archives/30%206%202026/841027661420691456): old to new messages, new format, archived #news
+
+### 17 7 2026
+
+**Servers**
+
+- [**841027661420691456**](https://summerhosts.github.io/archives/17%207%202026/841027661420691456): old to new messages, new format, archived #news
