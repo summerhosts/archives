@@ -1,4 +1,4 @@
-Archived channels or servers from a summerhosts' discord server
+Archived discord servers from a summerhost. The archives contain messages, members, roles, channels and some other server metadata.
 
 ## Archives
 
